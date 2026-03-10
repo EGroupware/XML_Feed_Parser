@@ -15,7 +15,7 @@
     "include-path": [
         "./"
     ],
-    "license": "LGPL",
+    "license": "LGPL-2.0-or-later",
     "name": "egroupware/xml_feed_parser",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=XML_Feed_Parser",

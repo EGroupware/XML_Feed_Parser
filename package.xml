@@ -20,7 +20,7 @@
   <release>stable</release>
   <api>stable</api>
  </stability>
- <license uri="http://www.gnu.org/copyleft/lesser.html">LGPL</license>
+ <license uri="http://www.gnu.org/copyleft/lesser.html">LGPL-2.0-or-later</license>
  <notes>
 QA release
 Bug #16416 atom:link causes getLink to fail for RSS2.php
