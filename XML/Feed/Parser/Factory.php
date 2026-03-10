@@ -16,7 +16,7 @@ class XML_Feed_Parser_Factory {
 
     public function __construct(Log $log = null) {
         if ($log === null) {
-            $log = new Log_null('', '', array(), null);
+            $log = new Log_null('', '', array(), PEAR_LOG_EMERG);
         }
         $this->log = $log;
     }
